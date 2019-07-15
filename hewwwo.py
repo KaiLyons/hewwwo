@@ -6,5 +6,3 @@ def hewwwo(main_str):
     strin = stri.replace('l' , 'w')
     string = strin.replace('n' , 'ny')
     print(string + ' ' + random.choice(["uwu", "owo", ""]))
-
-hewwwo("Hello world")
